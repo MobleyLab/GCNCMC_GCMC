@@ -4,4 +4,4 @@ The production phase of GCMC and GCNCMC simulations was performed using the same
 
 The atoms and radius used to define the region of interest for water enhanced sampling can be found in the scripts to run production simulations for each system.
 
-The complete list of simulated systems with their PDB IDs: 2xab, 2xjg, 3rlp, 3rlr, 3rlq, 1ec1, 1ec0, 1ebw, 1eby, 1c5t, 1gi1, 1f0u, 1o2j, 1ezq, 1lpg, 1lpz, 1f0s, 2zff, 4zlz, 2qbs, 5i1q.
+The complete list of simulated systems with their PDB IDs: HSP90 (2xab, 2xjg, 3rlp, 3rlr, 3rlq), HIV1-protease (1ec1, 1ec0, 1ebw, 1eby), Trypsin (1c5t, 1gi1, 1f0u, 1o2j), Factor Xa (1ezq, 1lpg, 1lpz, 1f0s), thrombin (2zff), BTK (4zlz), PTP1B (2qbs), TAF1 (5i1q).
